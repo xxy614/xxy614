@@ -2,9 +2,9 @@
 
 # Hi, I'm Aria Xu 👋
 
-<p><strong>Software Engineer · AI Engineer · Full-Stack & Backend Engineer</strong></p>
+<p><strong>Software Engineer · AI/ML · Data & Backend Systems · Robotics</strong></p>
 
-I build reliable AI applications, LLM-powered systems, and production-ready software from backend infrastructure to polished user experiences.
+I build reliable products across software layers—from data and backend infrastructure to AI applications, full-stack experiences, and robotics-oriented systems.
 
 [![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-ariaxu.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ariaxu.dev)
 
@@ -17,41 +17,67 @@ I build reliable AI applications, LLM-powered systems, and production-ready soft
 ## About Me
 
 - 🎓 M.S. in Computer Engineering from USC Viterbi School of Engineering
-- 💻 Interested in software engineering roles across AI, full-stack, and backend systems
-- 🧩 Focused on turning complex technical problems into useful, maintainable products
+- 💻 Experienced across AI/ML, data engineering, backend and full-stack development, systems programming, and robotics software
+- 🧩 Interested in connecting software with the physical world through real-time systems and hardware-software integration
 
 ## Current Focus
 
-- Building AI applications grounded in real product workflows
-- Designing LLM systems with structured outputs, traceable evidence, and reliable evaluation
-- Developing scalable APIs, data pipelines, and distributed backend services
-- Creating end-to-end products with thoughtful architecture and clean user experiences
+- Building AI/ML and LLM applications—including computer vision systems—grounded in real product workflows
+- Developing data engineering and analytics pipelines with SQL, relational databases, and distributed data processing
+- Designing scalable backend systems, APIs, and distributed services for reliable end-to-end products
+- Applying C/C++ systems programming, multithreading, and real-time techniques to robotics and hardware-adjacent software
 
 ## Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & AI
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Data Engineering
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Backend, Cloud & Delivery
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-412991?style=flat-square&logo=openai&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Data, Infrastructure & Delivery
+### Robotics & Systems
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Real-Time Systems](https://img.shields.io/badge/Real--Time_Systems-B91C1C?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-475569?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-334155?style=flat-square)
 
 ## Featured Projects
