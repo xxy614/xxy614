@@ -90,6 +90,22 @@ An AI-powered production incident investigation platform that parses and correla
 
 [View repository →](https://github.com/xxy614/tracelens-ai)
 
+### [RoboPercept](https://github.com/xxy614/RoboPercept)
+
+A reproducible warehouse-robotics perception pipeline that prepares and validates LOCO data, fine-tunes and evaluates YOLO11n with environment-disjoint splits, adds ByteTrack video tracking, and serves ONNX inference through FastAPI.
+
+`Python` · `PyTorch` · `Ultralytics YOLO` · `OpenCV` · `ByteTrack` · `ONNX Runtime` · `FastAPI` · `Docker` · `CUDA`
+
+[View repository →](https://github.com/xxy614/RoboPercept)
+
+### [DutyLens](https://github.com/xxy614/dutylens)
+
+An AI-assisted customs document auditing system that combines deterministic invoice validation with evidence-constrained semantic review and human oversight, accepting typed JSON or text-based PDFs through a full-stack review workflow.
+
+`Python` · `FastAPI` · `Pydantic` · `Next.js` · `TypeScript` · `PDF Parsing` · `LLM APIs` · `pytest`
+
+[View repository →](https://github.com/xxy614/dutylens)
+
 <!-- Add future featured projects below using the same heading, description, stack, and repository-link structure. -->
 
 ## Let's Connect
